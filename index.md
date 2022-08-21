@@ -43,11 +43,10 @@ ___
     - [蒙地卡羅方法 - 角子老虎機](https://colab.research.google.com/drive/1REo_J8ZIzm0vHlho5-T2eJUULHGMD3vJ?usp=sharing)
 
 #### VBA
-##### [VBA exercise](https://github.com/w960310/VBA-exercise)
-[https://github.com/w960310/VBA-exercise](https://github.com/w960310/VBA-exercise)
-Looping exercise
-VBA while loop
-自動依學生班級建立各班級成績單
+##### VBA exercise - [https://github.com/w960310/VBA-exercise](https://github.com/w960310/VBA-exercise)
+    - Looping exercise
+        - 自動依學生成績標色
+        - 自動依學生班級建立各班級成績單
      
 
 ___
