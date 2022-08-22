@@ -33,8 +33,8 @@ ___
 
 ___
 # 證照
-#### Society of Actuaries Exam P  
-Grade : 9/10
+#### Society of Actuaries 
+    - Exam P (Grade : 9/10)
 
 ___
 # Projects
