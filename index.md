@@ -39,8 +39,9 @@ ___
 ___
 # Projects
 #### Python
-    - [蒙地卡羅方法 - 擲骰子](https://colab.research.google.com/drive/1gMCV11aM981_jtR7RzLFSbcrND-U7eph?usp=sharing)
-    - [蒙地卡羅方法 - 角子老虎機](https://colab.research.google.com/drive/1REo_J8ZIzm0vHlho5-T2eJUULHGMD3vJ?usp=sharing)
+##### Python exercise - [https://github.com/w960310/python-exercise](https://github.com/w960310/python-exercise)
+    - [蒙地卡羅方法模擬擲骰之勝率](https://colab.research.google.com/drive/1gMCV11aM981_jtR7RzLFSbcrND-U7eph?usp=sharing)
+    - [蒙地卡羅方法模擬角子老虎機之報酬](https://colab.research.google.com/drive/1REo_J8ZIzm0vHlho5-T2eJUULHGMD3vJ?usp=sharing)
 
 #### VBA
 ##### VBA exercise - [https://github.com/w960310/VBA-exercise](https://github.com/w960310/VBA-exercise)
