@@ -45,8 +45,8 @@ ___
 #### VBA
 ##### VBA exercise - [https://github.com/w960310/VBA-exercise](https://github.com/w960310/VBA-exercise)
     - Looping exercise
-        - 自動依學生成績標色
-        - 自動依學生班級建立各班級成績單
+        - 1.自動依學生成績標色
+        - 2.自動依學生班級建立各班級成績單
      
 
 ___
