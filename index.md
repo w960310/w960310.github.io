@@ -41,14 +41,14 @@ ___
 #### Python
 ##### Python exercise - [https://github.com/w960310/python-exercise](https://github.com/w960310/python-exercise)
     - Monte Carlo method
-        - 1.[蒙地卡羅方法模擬擲骰之勝率]
-        - 2.[蒙地卡羅方法模擬角子老虎機之報酬]
+        - 1. 蒙地卡羅方法模擬擲骰之勝率
+        - 2. 蒙地卡羅方法模擬角子老虎機之報酬
 
 #### VBA
 ##### VBA exercise - [https://github.com/w960310/VBA-exercise](https://github.com/w960310/VBA-exercise)
     - Looping exercise
-        - 1.自動依學生成績標色
-        - 2.自動依學生班級建立各班級成績單
+        - 1. 自動依學生成績標色
+        - 2. 自動依學生班級建立各班級成績單
      
 
 ___
