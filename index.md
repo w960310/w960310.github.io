@@ -41,8 +41,8 @@ ___
 #### Python
 ##### Python exercise - [https://github.com/w960310/python-exercise](https://github.com/w960310/python-exercise)
     - Monte Carlo method
-        - 1.[蒙地卡羅方法模擬擲骰之勝率](https://colab.research.google.com/drive/1gMCV11aM981_jtR7RzLFSbcrND-U7eph?usp=sharing)
-        - 2.[蒙地卡羅方法模擬角子老虎機之報酬](https://colab.research.google.com/drive/1REo_J8ZIzm0vHlho5-T2eJUULHGMD3vJ?usp=sharing)
+        - 1.[蒙地卡羅方法模擬擲骰之勝率]
+        - 2.[蒙地卡羅方法模擬角子老虎機之報酬]
 
 #### VBA
 ##### VBA exercise - [https://github.com/w960310/VBA-exercise](https://github.com/w960310/VBA-exercise)
