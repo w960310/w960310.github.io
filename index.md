@@ -20,11 +20,11 @@ ___
     - 複迴歸分析
 
 #### Microsoft Office
-    - Excel  
-    - VBA  
+    - Excel VBA  
     - Word  
     - PowerPoint 
-
+    - Excel  
+    
 #### Python
     - Visualization
     - Pandas 
@@ -43,8 +43,8 @@ ___
         - 1. 蒙地卡羅方法模擬擲骰之勝率
         - 2. 蒙地卡羅方法模擬角子老虎機之報酬
 
-#### VBA
-##### VBA exercise - [https://github.com/w960310/VBA-exercise](https://github.com/w960310/VBA-exercise)
+#### Excel VBA
+##### Excel VBA exercise - [https://github.com/w960310/VBA-exercise](https://github.com/w960310/VBA-exercise)
     - Looping exercise
         - 1. 自動依學生成績標色
         - 2. 自動依學生班級建立各班級成績單
