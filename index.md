@@ -40,7 +40,7 @@ ___
 ___
 # Projects
 #### Python
-##### Python exercise - [https://github.com/w960310/python-exercise](https://github.com/w960310/python-exercise)
+##### Python exercise - [https://github.com/w960310/Python-exercise](https://github.com/w960310/python-exercise)
     - Monte Carlo method
         - 1. 蒙地卡羅方法模擬擲骰之勝率
         - 2. 蒙地卡羅方法模擬角子老虎機之報酬
