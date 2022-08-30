@@ -35,7 +35,7 @@ ___
 # 證照
 #### Society of Actuaries 
     - Exam P (Grade : 9/10)
-
+    - Validation by Educational Experience (VEE課程已全數修畢)  
 ___
 # Projects
 #### Python
